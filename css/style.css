@@ -1,0 +1,45 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #f7f8f9;
+}
+
+header{
+    background-color: #fff;
+    margin-bottom: 64px;
+}
+
+header h1{
+    display: inline;
+}
+
+main{
+    width: 60%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px 64px;
+    border-radius: 8px;
+}
+
+a.btn{
+    display: inline-block;
+    text-decoration: none;
+}
+
+/* stile bottoni */
+.btn {
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.primary-btn.btn{
+    background-color: #46acf1;
+    color: #fff;
+}
+
+.secondary-btn.btn{
+    border: 1px solid #d3d8dc;
+    color: #d3d8dc;
+}
