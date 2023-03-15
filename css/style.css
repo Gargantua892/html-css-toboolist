@@ -85,9 +85,42 @@ a.btn{
     margin-right: 8px;
 }
 
+.element-item{
+    margin-bottom: 36px;
+}
+
 span.pill {
     font-size: 12px;
     color: #fff;
-    padding: 4px 8px;
+    padding: 6px 10px;
     border-radius: 64px;
+}
+
+.element .cross-mark{
+    font-size: 12px;
+    color: red;
+    border: 1px solid red;
+    padding: 4px 8px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.purple-pill{
+    background-color: #9c72e4;
+}
+
+.green-pill{
+    background-color: #65c0a8;
+}
+
+.orange-pill{
+    background-color:#f39d34;
+}
+
+.purple-pill{
+    background-color:#d963a1;
+}
+
+.lightgreen-pill{
+    background-color: #b0c927;
 }
