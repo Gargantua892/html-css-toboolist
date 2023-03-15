@@ -11,10 +11,19 @@ body{
 header{
     background-color: #fff;
     margin-bottom: 64px;
+    padding: 8px 0px;
 }
 
-header h1{
-    display: inline;
+header{
+    font-size: 36px;
+    font-weight: 800;
+}
+
+#logo {
+    line-height: 56px;
+    display: inline-block;
+    vertical-align: middle;
+    height: 56px;
 }
 
 main{
